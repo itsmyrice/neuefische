@@ -4,7 +4,7 @@
 
 ## Notes
 
-- Writing down the schedule of our weeekly's session.
+- Writing down the schedule of our weekly's session.
 
 ---
 
