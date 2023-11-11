@@ -1,49 +1,38 @@
-# Shell Basics
+# Weekly's Sessions
 
 ---
 
-## Shell and Terminal
+## Notes
 
-You are probably used to using GUIs
-([Graphical User Interfaces](https://en.wikipedia.org/wiki/Graphical_user_interface)) to interact
-with computers.
-
-Often times developers interact with computers using CLIs (Command Line Interfaces) which are text
-based user interfaces. That means that you type commands to interact with the computer (create /
-move / delete / edit files, install software, change system settings...).
-
-This has the following reasons / advantages:
-
-- Many tools don't have a GUI and can only be used as a CLI.
-- You can write scripts (which consist of a number of commands) to automate processes and repetitive
-  tasks and ensure they are being run exactly the same way every time they are executed.
-
-On macOS we are using zsh (z shell) as the command interpreter.
-
-By default it is run within the Terminal app. For this course we'll use iTerm and Visual Studio Code
-as alternative terminal emulators.
-
-- A shell (like zsh) is the command interpreter that runs and executes commands on your computer and
-  outputs results.
-- A terminal (like Terminal, iTerm, Visual Studio Code) is a text input and output environment
-  (emulating a [hardware computer terminal](https://en.wikipedia.org/wiki/Computer_terminal)) that
-  sends commands to the shell and displays its output.
+- Writing down the schedule of our weekly's session.
 
 ---
 
-### Basic Shell commands
+## Schedule from 30.10.2023 - 03.11.2023
+---
+### Week 1
 
-| command                  | functionality                                                              |
-| ------------------------ | -------------------------------------------------------------------------- |
-| `ls`                     | list the content of the current directory                                  |
-| `cd <foldername>`        | change directory into a folder                                             |
-| `cd ..`                  | change into the parent folder                                              |
-| `cd ~`                   | change into your home directory                                            |
-| `pwd`                    | print the current directory path                                           |
-| `touch example.md`       | create a file called "example.md"                                          |
-| `mkdir newFolder`        | create a folder called "newFolder"                                         |
-| `mv <oldname> <newname>` | move or rename a file                                                      |
-| `rm <filename>`          | delete a file permanently (there is no trash bin to recover files!)        |
-| `open .`                 | open the current folder in the finder                                      |
-| `cat <filename>`         | prints the content of a specific file                                      |
-| `curl <url>`             | prints the received content from the specified url. (try `curl ipinfo.io`) |
+| Day       | am                               | pm                            |
+| --------- | -------------------------------- | ----------------------------- |
+| Monday    | Welcome                          | Github and Markdown           |
+| Tuesday   | holiday                          | holiday                       |
+| Wednesday | HTML and the Web Active Learning | CSS Basics                    |
+| Thursday  | CSS Flexbox                      | Self Directed Learning Week 1 |
+| Friday    | CSS Positioning                  | Shell Basics                  |
+
+
+## Schedule from 06.11.2023 - 10.11.2023
+---
+### Week 2
+
+| Day       | am                         | pm                               |
+| --------- | -------------------------- | -------------------------------- |
+| Monday    | Git CLI & Remote           | Git Branches and PRs             |
+| Tuesday   | Recap Project 1            | Accessibility / Active Learning  |
+| Wednesday | JS Basics                  | CSS Structure                    |
+| Thursday  | JS Variables and Numbers   | Self Directed Learning - Week 2  |
+| Friday    | JS Conditions and Booleans | CSS Responsive / Active Learning |
+
+## Schedule from 13.11.2023 - 17.11.2023
+---
+### Week 3
